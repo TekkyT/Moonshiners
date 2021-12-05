@@ -1,0 +1,7 @@
+A really basic text-based game where your goal is simply to make and sell moonshine. 
+It is basically all RNG and honestly it's pretty dogshit at the moment. 
+If you want to just download and play, click moonshiners.rar. 
+I will be adding a lot of features to this project such as progression based scaling and advancements, 
+more cheat codes as of right now there is only one (devMode), 
+and will be converting all variables to classes, 
+so each item in your inventory will have modifiers associated with them. 
